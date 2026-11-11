@@ -1,4 +1,4 @@
-# Scientific AI Assistant — Telegram + OpenAI
+# ScienceNIR — Telegram + OpenAI
 
 Бұл нұсқа пайдаланушының бұрыннан бар 8 Telegram мәзірін сақтап, олардың бәріне нақты ЖИ жауаптарын қосады.
 
